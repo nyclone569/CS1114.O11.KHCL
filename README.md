@@ -79,6 +79,7 @@
 Video chứa các thông tin:
 </p>
 + Nhãn loại xe detect được.
+
 + Số lượng xe lưu thông.
 
 <h3>
