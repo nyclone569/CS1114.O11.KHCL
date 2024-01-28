@@ -138,7 +138,7 @@ Các nhãn của bộ dataset
 
 Link colab: https://colab.research.google.com/drive/19cs5mvy5M_ip_YsAFNamTIZGVs9HKcss?usp=sharing
 
-
+Link result: [video-result](https://drive.google.com/file/d/1LZM8MBUhNauAthu9vvzcVfL-MgpRTpxb/view?usp=drive_link)
 
 <h3>
    5. Đánh giá,kết quả và kết luận
