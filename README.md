@@ -78,9 +78,7 @@
 <p align="justify"> 
 Video chứa các thông tin:
 </p>
-+ Nhãn loại xe detect được.
-
-+ Số lượng xe lưu thông.
++ Nhãn loại xe detect được và số lượng xe lưu thông.
 
 <h3>
   2. Mô tả bộ dữ liệu
