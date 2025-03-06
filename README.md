@@ -147,7 +147,7 @@ Link result: [video-result](https://drive.google.com/file/d/1LZM8MBUhNauAthu9vvz
 Kết quả đánh giá cho object detection:
 
 
-<img src = 'https://private-user-images.githubusercontent.com/140532323/300245749-a78a4a10-c657-4315-b7cf-846e32569147.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDY0Mjc5NjEsIm5iZiI6MTcwNjQyNzY2MSwicGF0aCI6Ii8xNDA1MzIzMjMvMzAwMjQ1NzQ5LWE3OGE0YTEwLWM2NTctNDMxNS1iN2NmLTg0NmUzMjU2OTE0Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEyOFQwNzQxMDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMTUwNmQ4YzNiZGQ5ZTI3MGM1NWU1MTUwNDY4NjFlYWY1Njg5YjAzNzk2MjM5YzczYjkzMWFkMDc2MDI3NThhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.aU8ZKG2XZDZOVUGrlBbNkpRp4qZEMFLHAfuHvpDIrQ8' style="width:40%;height:40%;">
+<img src = 'result.png' style="width:40%;height:40%;">
 </img>
 
 <p align='justify'>
